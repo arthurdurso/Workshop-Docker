@@ -11,3 +11,6 @@ docker build -t first-image .
 docker run -d -p 8501:8501 --name first-container first-image
 
 - Ainda é possível rodar esse projeto no Render.
+
+
+- Atualizar Workshop
